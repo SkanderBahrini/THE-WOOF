@@ -1,0 +1,6 @@
+
+
+function my() {
+   
+    alert("rrrrrrrrr");
+}

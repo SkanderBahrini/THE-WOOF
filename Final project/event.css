@@ -1,0 +1,59 @@
+.footer > img {
+     
+    width:150px;
+    height: 100px;
+    border-radius: 60px;
+}
+
+.footer {
+
+    text-align: center;
+}
+
+
+.img1 {
+
+    margin-left: 500px;
+    border-radius: 60px;
+}
+
+.title{
+
+    text-align: center;
+   
+    
+}
+
+
+.text{
+
+    color:black;
+    
+}
+button {
+   
+    margin-left: 600px;
+}
+
+
+
+.form-text {
+
+    color:white
+}
+
+input {
+
+    width: 400px;
+}
+
+
+.text {
+
+    width: 500px;
+    margin-left: 380px;
+}
+
+body{
+    background-image: url('https://wallpaperaccess.com/full/1318896.jpg');
+}
